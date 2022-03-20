@@ -1,2 +1,3 @@
 # UserMgmtApp-React
-Created with CodeSandbox
+
+User management app with React
